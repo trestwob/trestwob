@@ -33,6 +33,6 @@
   <img src=https://i.imgur.com/RHkY5wh.gif>
   <p align=center>
     <img height="100%" width="auto" src=https://github-readme-stats.vercel.app/api?username=concurrentshell&show_icons=true&theme=transparent&hide_border=true>
-    <img height="50%" width="auto" src=https://github-readme-stats.vercel.app/api/top-langs/?username=concurrentshell&layout=donut&langs_count=5&bg_color=00000000&hide=jupyter%20notebook,text,css,html,php&hide_border=true>
+    <img height="50%" width="auto" src=https://github-readme-stats.vercel.app/api/top-langs/?username=concurrentshell&layout=donut&langs_count=5&bg_color=00000000&hide=jupyter%20notebook,text,css,html,php,Makefile,toml,yaml,json&hide_border=true>
   </p>
 </html>
