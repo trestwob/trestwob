@@ -5,8 +5,8 @@
     <img src=https://i.imgur.com/eIT2C9B.gif>
     <div align=center>
       <img src=https://i.imgur.com/34WHsJd.gif>
-      <p align=center size="20px">I'm a beginner programmer with expertise in JavaScript and Python. My journey spans across AI and Web3 technologies.
-      I’m enthusiastic about open-source contributions and enjoy collaborating on projects where I'm able to.</p>
+      <p align=center size="20px">Junior Software Engineer skilled in JavaScript, Python, and C, with experience in React for dynamic UI development. 
+Proficient in Docker and Linux for effective application deployment and management. </p>
     </div>
     <div align=center>
       <img src=https://i.imgur.com/G6DOasN.gif>
